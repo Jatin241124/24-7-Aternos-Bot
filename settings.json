@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MEGASerVeR69.aternos.me:35776",
+    "ip": "MEGASerVeR69.aternos.me",
     "port": 35776,
     "version": "1.20.1",
     "try-creative": false
